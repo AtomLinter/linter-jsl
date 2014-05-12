@@ -1,0 +1,14 @@
+{
+  "name": "linter-jsl",
+  "linter-package": true,
+  "activationEvents": [],
+  "main": "./lib/init",
+  "version": "0.0.0",
+  "description": "Lint JavaScript on the fly, using JavaScript Linter (jsl) (not yet ready)",
+  "repository": "https://github.com/AtomLinter/linter-jsl",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}
